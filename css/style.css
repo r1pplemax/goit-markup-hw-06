@@ -916,8 +916,8 @@ color: var(--second-text-color);
 
 .modal-form-input-icon {
   position: absolute;
-  top: calc(50%);
-  left: 12px;
+  top: 50%;
+  left: 12px;v
   width: 18px;
   height: 18px;
 
